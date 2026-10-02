@@ -4,7 +4,7 @@
   <img alt="BAW Labs, Inc. — Software, by appointment. Product investigator. Independent agency. Coffee, black." src="https://raw.githubusercontent.com/baw-labs/.github/main/profile/banner-dark.png">
 </picture>
 
-#### I don’t take many cases. The answers come unsweetened.
+#### By appointment only. Coffee, black.
 
 [☍ Inquiries by correspondence.](https://baw.dev)
 
