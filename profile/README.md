@@ -4,7 +4,7 @@
   <img alt="BAW Labs, Inc. — Software, by appointment. Product investigator. Independent agency. Coffee, black." src="https://raw.githubusercontent.com/baw-labs/.github/main/profile/banner-dark.png">
 </picture>
 
-#### I don’t take many cases. That keeps the work honest. You come in with a hunch. I run it down, one lead at a time. Like the coffee, the answers aren’t always sweetened.
+#### I don’t take many cases. The answers come unsweetened.
 
 [☍ Inquiries by correspondence.](https://baw.dev)
 
